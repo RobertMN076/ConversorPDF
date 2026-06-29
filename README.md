@@ -23,4 +23,4 @@ Um aplicativo desktop minimalista e de alto contraste desenvolvido em Python par
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/RobertMN076/ConversorPDF.git]
+   git clone https://github.com/RobertMN076/ConversorPDF.git
